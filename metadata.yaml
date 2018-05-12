@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7126
     wikipedia: http://en.wikipedia.org/wiki/George_Alfred_Lawrence
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19121#Sword-and-GownA-Novel
 gutenberg_issued: '2006-08-25'
 gutenberg_type: Text
 identifiers:
